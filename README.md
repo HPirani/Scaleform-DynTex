@@ -1,9 +1,9 @@
 # CryENGINE Scaleform DynTex Hotfix
 ➡️ This Repository Contains Hotfix For CryFollowGraphModule.
 
-➡️ how to use : 
-
 ➡️ Which Prevents from Activating Scaleform Flash Player.
+
+➡️ how to use : https://youtu.be/Dm9Qfs8BVMQ
 
 ➡️ & It causes To Object Become Invisible & Flash Not Rendered To Texture.
 

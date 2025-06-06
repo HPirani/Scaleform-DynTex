@@ -11,4 +11,4 @@
 
 ➡️ or you can place FlowFlashEnableDynTexNode.cpp file to your project Or in CryFollowGraph module & Build It Yourself.
 
-# Note : binaries is for CryENGINE 5.7.1 LTS Only.
+# Note : binaries are for CryENGINE 5.7.1 LTS Only.
